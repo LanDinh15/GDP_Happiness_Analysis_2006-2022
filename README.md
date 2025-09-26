@@ -53,7 +53,8 @@ Tableau-project/
 ```
 
 ### Screenshots
-
+For visual examples of the dashboards, refer to the images embedded in `Report.pdf`. Key visualizations include:
+- 
 
 ### License
 This project is licensed under the MIT License. 
