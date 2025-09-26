@@ -56,7 +56,8 @@ Tableau-project/
 For visual examples of the dashboards, refer to the images embedded in `Report.pdf`. Key visualizations include:
 - Continental GDP bar charts and trend lines featuring a year filter, and a country filter.
 ![Global GDP analysis](https://github.com/user-attachments/assets/81877ead-a6b2-4f12-b0d0-b1a1126064e8)
-
+- The global GDP per capita across continents, correlating with the population. 
+![GDP per capita Analysis](https://github.com/user-attachments/assets/05e28b98-6e7b-49b0-954a-342f5df4fe66)
 
 ### License
 This project is licensed under the MIT License. 
