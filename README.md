@@ -54,7 +54,9 @@ Tableau-project/
 
 ### Screenshots
 For visual examples of the dashboards, refer to the images embedded in `Report.pdf`. Key visualizations include:
-- 
+- Continental GDP bar charts and trend lines featuring a year filter, and a country filter.
+  ![Picture1](https://github.com/user-attachments/assets/80ee365a-a4eb-4a1e-b3a8-5b1d93c112cc)
+
 
 ### License
 This project is licensed under the MIT License. 
